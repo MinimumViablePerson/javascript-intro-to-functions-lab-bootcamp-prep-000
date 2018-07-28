@@ -1,3 +1,4 @@
 const shout = string => string.toUpperCase()
 
-const 
+const whisper = string => string.toLowerCase()
+
